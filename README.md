@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @AyushAgarwal15
-- 👀 I’m interested in Full Stack Development, React, and java. 
+  💻 I have good knowledge of HTML5, CSS, Vanilla JS and Bootstrap Framework
+- 👀 I’m interested in Full Stack Web Development, React, and java. 
 - 🌱 I’m currently learning Frontend development, Java and DSA
-- 💞️ I’m looking to collaborate on Front-end projects
+- 💞️ I’m looking to collaborate on Front-end Web projects.
 - 📫 You can find me here 
       Twitter - @Ayush_Agg15
       LinkedIn -@AyushAgarwal15
