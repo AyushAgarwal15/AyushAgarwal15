@@ -6,15 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/ayush_agg15" target="blank"><img src="https://img.shields.io/twitter/follow/ayush_agg15?logo=twitter&style=for-the-badge" alt="ayush_agg15" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript, Java, Data Structures**
-
 - 👯 I’m looking to collaborate on **Frontend Development Projects**
 
 - 💬 Ask me about **Html, Css, Javascript,**
 
 - 📫 How to reach me **aa2503452@gmail.com**
-
-- 📄 Know about my experiences [https://app.luminpdf.com/viewer/6379ef65c40b68f8869c34a9](https://app.luminpdf.com/viewer/6379ef65c40b68f8869c34a9)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
