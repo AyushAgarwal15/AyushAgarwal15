@@ -23,7 +23,7 @@
 
 ## Get in Touch
 - LinkedIn: https://www.linkedin.com/in/ayushagarwal15/
-- Email: ayushagarwal25034@gmail.com
+- Email: ayushagarwal8126@gmail.com
 
 Feel free to reach out if you have any questions, collaboration opportunities, opportunity, or just want to connect. Looking forward to exploring the world of technology together!
 
