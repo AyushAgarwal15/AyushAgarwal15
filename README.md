@@ -1,5 +1,7 @@
 # Hi there, I'm Ayush Agarwal! 👋
 
+<img src="https://camo.githubusercontent.com/bd071f5e4ba3715…2325270626d63745a6e4a6c595773752f5a326c6d2e676966"/>
+
 ## About Me
 - Frontend Developer with a passion for building user-friendly web applications
 - Skilled in HTML, CSS, JavaScript, and React.js
