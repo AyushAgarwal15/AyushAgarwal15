@@ -6,7 +6,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a frontend engineer with **1+ years of hands-on experience** crafting fast, clean, and user-friendly web applications. I specialize in **React.js**, **Next.js**, **Tailwind CSS**, and **TypeScript**, with a knack for solving real-world problems through elegant and efficient UI solutions.
+I'm a frontend engineer with **2+ years of hands-on experience** crafting fast, clean, and user-friendly web applications. I specialize in **React.js**, **Next.js**, **Tailwind CSS**, and **TypeScript**, with a knack for solving real-world problems through elegant and efficient UI solutions.
 
 🔧 I love transforming ideas into reality through code. Whether it's building scalable dashboards, refactoring old codebases, or enhancing UX performance — I’m all in!
 
