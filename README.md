@@ -6,11 +6,15 @@
 
 ## 🧑‍💻 About Me
 
-I'm a frontend engineer with **2+ years of hands-on experience** crafting fast, clean, and user-friendly web applications. I specialize in **React.js**, **Next.js**, **Tailwind CSS**, and **TypeScript**, with a knack for solving real-world problems through elegant and efficient UI solutions.
+I'm a frontend engineer with **2.5+ years of hands-on experience** crafting fast, clean, and user-friendly web applications. I specialize in **React.js**, **Next.js**, **Tailwind CSS**, and **TypeScript**, with a knack for solving real-world problems through elegant and efficient UI solutions.
 
 🔧 I love transforming ideas into reality through code. Whether it's building scalable dashboards, refactoring old codebases, or enhancing UX performance — I’m all in!
 
 📈 Currently working at **Mile9**, a health-tech startup, where I’ve built a complete portfolio site, optimized core features, and designed a scalable dashboard for 10,000+ records.
+
+🔨 **Currently building:** a tool that gives your resume one permanent link: update the file, and the link never changes. Building it in public on [LinkedIn](https://www.linkedin.com/in/ayushagarwal15/).
+
+✍️ I share JavaScript & frontend concepts with 26K+ followers on LinkedIn.
 
 ---
 
@@ -73,8 +77,9 @@ Summarize long articles using OpenAI in seconds. Used by 100+ users.
 
 ## 📫 Get in Touch
 
-- 🌐 Portfolio: [ayushagarwal.info](https://ayushagarwal.info/)
+- 🌐 Portfolio: [ayushagarwal.online](https://ayushagarwal.online/)
 - 💼 LinkedIn: [@ayushagarwal15](https://www.linkedin.com/in/ayushagarwal15/)
+- 🐦 X: [@Ayush_Agg15](https://x.com/Ayush_Agg15)
 - 📬 Email: [ayushagarwal8126@gmail.com](mailto:ayushagarwal8126@gmail.com)
 
 ---
